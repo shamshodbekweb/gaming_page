@@ -1,0 +1,7 @@
+.container{
+       background-image: url(../../assets/image\ 2.png);
+}
+.container{
+       filter: brightness(100%);
+       filter:contrast(110%);
+}

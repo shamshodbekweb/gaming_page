@@ -1,0 +1,41 @@
+.container{
+    width: 1340px;
+    margin: 0 auto;
+}
+.links{
+    margin-right: 30px;
+    color: #2E2594;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.game_x{
+    margin-left: 10px;
+}
+ul, ol{
+    margin-right: 30px;
+    gap: 60px;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.vrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.btn{
+    background-color: #B53071;
+    width: 150px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    border-radius: 23px;
+    border: #B53071;
+}
+.btn:active{
+    box-shadow: 1px 1px 1px #881e51 ;
+}

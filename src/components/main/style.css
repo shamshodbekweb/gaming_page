@@ -1,0 +1,35 @@
+.container{
+    width: 1340px;
+    margin: 0 auto;
+}
+.information{
+    margin-bottom: 300px;
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 470px;
+    font-size: 50px;
+    color: #2E2594 ;
+}
+
+.inside{
+    color: #B53071 ;
+}
+.vrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.desc{
+    color: #2E2594;
+    width: 460px;
+    margin-left: 10px;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    margin-bottom: 100px;
+}
+.info{
+    margin-left: 60px;
+}
